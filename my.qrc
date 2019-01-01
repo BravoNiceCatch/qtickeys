@@ -1,0 +1,84 @@
+<RCC>
+    <qresource prefix="/bubbles">
+        <file>data/bubbles/1.wav</file>
+        <file>data/bubbles/2.wav</file>
+        <file>data/bubbles/3.wav</file>
+        <file>data/bubbles/4.wav</file>
+        <file>data/bubbles/5.wav</file>
+        <file>data/bubbles/6.wav</file>
+        <file>data/bubbles/7.wav</file>
+        <file>data/bubbles/8.wav</file>
+        <file>data/bubbles/enter.wav</file>
+        <file>data/bubbles/license.txt</file>
+    </qresource>
+    <qresource prefix="/mechanical">
+        <file>data/mechanical/1.wav</file>
+        <file>data/mechanical/2.wav</file>
+        <file>data/mechanical/3.wav</file>
+        <file>data/mechanical/4.wav</file>
+        <file>data/mechanical/5.wav</file>
+        <file>data/mechanical/license.txt</file>
+    </qresource>
+    <qresource prefix="/piano">
+        <file>data/piano/delete.wav</file>
+        <file>data/piano/pianobb5.wav</file>
+        <file>data/piano/pianobb6.wav</file>
+        <file>data/piano/pianodb4.wav</file>
+        <file>data/piano/pianodb5.wav</file>
+        <file>data/piano/pianodb6.wav</file>
+        <file>data/piano/return.wav</file>
+        <file>data/piano/Sound_A.wav</file>
+        <file>data/piano/Sound_B.wav</file>
+        <file>data/piano/Sound_C.wav</file>
+        <file>data/piano/Sound_D.wav</file>
+        <file>data/piano/Sound_E.wav</file>
+        <file>data/piano/Sound_F.wav</file>
+        <file>data/piano/Sound_G.wav</file>
+        <file>data/piano/Sound_H.wav</file>
+        <file>data/piano/Sound_I.wav</file>
+        <file>data/piano/Sound_J.wav</file>
+        <file>data/piano/Sound_K.wav</file>
+        <file>data/piano/Sound_L.wav</file>
+        <file>data/piano/Sound_M.wav</file>
+        <file>data/piano/Sound_N.wav</file>
+        <file>data/piano/Sound_O.wav</file>
+        <file>data/piano/Sound_P.wav</file>
+        <file>data/piano/Sound_Q.wav</file>
+        <file>data/piano/Sound_R.wav</file>
+        <file>data/piano/Sound_S.wav</file>
+        <file>data/piano/Sound_T.wav</file>
+        <file>data/piano/Sound_U.wav</file>
+        <file>data/piano/Sound_V.wav</file>
+        <file>data/piano/Sound_W.wav</file>
+        <file>data/piano/Sound_X.wav</file>
+        <file>data/piano/Sound_Y.wav</file>
+        <file>data/piano/Sound_Z.wav</file>
+        <file>data/piano/space.wav</file>
+    </qresource>
+    <qresource prefix="/sword">
+        <file>data/sword/1.wav</file>
+        <file>data/sword/2.wav</file>
+        <file>data/sword/3.wav</file>
+        <file>data/sword/4.wav</file>
+        <file>data/sword/5.wav</file>
+        <file>data/sword/6.wav</file>
+        <file>data/sword/back.wav</file>
+        <file>data/sword/enter.wav</file>
+        <file>data/sword/space.wav</file>
+    </qresource>
+    <qresource prefix="/typewriter">
+        <file>data/typewriter/backspace.wav</file>
+        <file>data/typewriter/key-new-01.wav</file>
+        <file>data/typewriter/key-new-02.wav</file>
+        <file>data/typewriter/key-new-03.wav</file>
+        <file>data/typewriter/key-new-04.wav</file>
+        <file>data/typewriter/key-new-05.wav</file>
+        <file>data/typewriter/return-new.wav</file>
+        <file>data/typewriter/scrollDown.wav</file>
+        <file>data/typewriter/scrollUp.wav</file>
+        <file>data/typewriter/space-new.wav</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>data/sound.json</file>
+    </qresource>
+</RCC>

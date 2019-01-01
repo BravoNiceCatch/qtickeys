@@ -1,0 +1,101 @@
+{
+    "typewriter1": [
+        {
+            "name": "?????",
+            "path": [
+                "typewriter\\key-new-01",
+                "typewriter\\key-new-02",
+                "typewriter\\key-new-03",
+                "typewriter\\key-new-04",
+                "typewriter\\key-new-05",
+                "typewriter\\scrollDown",
+                "typewriter\\backspace",
+                "typewriter\\space-new",
+                "typewriter\\return-new",
+                "typewriter\\scrollUp"
+            ],
+            "non_unique_count": 5
+        }
+    ],
+    "bubbles2": [
+        {
+            "name": "???",
+            "path": [
+                "bubbles\\1",
+                "bubbles\\2",
+                "bubbles\\3",
+                "bubbles\\4",
+                "bubbles\\5",
+                "bubbles\\6",
+                "bubbles\\7",
+                "bubbles\\8",
+                "bubbles\\enter"
+            ],
+            "non_unique_count": 8
+        }
+    ],
+    "mechanical4": [
+        {
+            "name": "??§Ö????",
+            "path": [
+                "mechanical\\1",
+                "mechanical\\2",
+                "mechanical\\3",
+                "mechanical\\4",
+                "mechanical\\5"
+            ],
+            "non_unique_count": 5
+        }
+    ],
+    "sword1": [
+        {
+            "name": "????",
+            "path": [
+                "sword\\1",
+                "sword\\2",
+                "sword\\3",
+                "sword\\4",
+                "sword\\5",
+                "sword\\6",
+                "sword\\back",
+                "sword\\space",
+                "sword\\enter"
+            ],
+            "non_unique_count": 6
+        }
+    ],
+    "piano3": [
+        {
+            "name": "????",
+            "path": [
+                "piano\\Sound_A",
+                "piano\\Sound_B",
+                "piano\\Sound_C",
+                "piano\\Sound_D",
+                "piano\\Sound_E",
+                "piano\\Sound_F",
+                "piano\\Sound_G",
+                "piano\\Sound_H",
+                "piano\\Sound_I",
+                "piano\\Sound_J",
+                "piano\\Sound_K",
+                "piano\\Sound_L",
+                "piano\\Sound_M",
+                "piano\\Sound_N",
+                "piano\\Sound_O",
+                "piano\\Sound_P",
+                "piano\\Sound_Q",
+                "piano\\Sound_R",
+                "piano\\Sound_S",
+                "piano\\Sound_T",
+                "piano\\Sound_U",
+                "piano\\Sound_V",
+                "piano\\Sound_W",
+                "piano\\Sound_X",
+                "piano\\Sound_Y",
+                "piano\\Sound_Z"
+            ],
+            "non_unique_count": 5
+        }
+    ]
+}
